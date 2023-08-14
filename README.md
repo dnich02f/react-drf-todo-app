@@ -1,1 +1,0 @@
-# react-drf-todo-app
