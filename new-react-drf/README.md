@@ -4,6 +4,7 @@ This is a Todo List app built using React for the frontend and Django with the D
 
 ![](ToDoCRUDReact.gif)
 
+
 ## Table of Contents
 
 - [Description](#description)
