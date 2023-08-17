@@ -2,6 +2,8 @@
 
 This is a Todo List app built using React for the frontend and Django with the Django Rest Framework (DRF) for the backend. The app allows users to manage their tasks by adding, editing, marking as completed, and deleting tasks.
 
+![](ToDoCRUDReact.gif)
+
 ## Table of Contents
 
 - [Description](#description)
